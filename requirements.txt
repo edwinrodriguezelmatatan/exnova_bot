@@ -1,6 +1,3 @@
-python-telegram-bot
-exnovaapi
-websocket-client
-aiohttp
+python-telegram-bot==20.7
+pandas
 requests
-python-dotenv
